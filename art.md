@@ -1,1 +1,7 @@
-Maybe I don't need that fake yaml bs
+---
+layout: page
+title: "Stef's Art"
+permalink: /art
+---
+
+I did need that YAML stuff
