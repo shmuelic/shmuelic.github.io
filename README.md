@@ -13,3 +13,6 @@ https://shmuelic.github.io
 https://shmuelic.github.io/hiking-photos
 
 https://shmuelic.github.io/recipes
+
+https://shmuelic.github.io/art
+
