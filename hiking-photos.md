@@ -6,4 +6,4 @@ permalink: /hiking
 
 
 # Hiking Photos
-This is where I would put my hiking photos if I HAD ANY
+I mainly post on (HAZ)[https://hikearizona.com/dex2/profile.php?u=82934]
