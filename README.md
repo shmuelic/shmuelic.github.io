@@ -7,7 +7,7 @@
 - Travel pics + map
 - Parody songs
 - Playlist
-- [Art](https://shmuelic.github.io/arty)
+- [Art](https://shmuelic.github.io/art)
 
 https://shmuelic.github.io
 
