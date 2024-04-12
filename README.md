@@ -8,4 +8,4 @@
 - Playlist
 - Art
 
-www.shmuelic.github.io
+https://shmuelic.github.io
