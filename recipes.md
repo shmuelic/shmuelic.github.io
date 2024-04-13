@@ -5,6 +5,6 @@ permalink: /recipes
 ---
 
 # Recipes
-- Bread
+- [Bread](https://shmuelic.github.io/recipes/bread)
 - Yogurt
 - Stirfry
