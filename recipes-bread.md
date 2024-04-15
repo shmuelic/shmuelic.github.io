@@ -5,16 +5,16 @@ permalink: /recipes/bread
 ---
 
 # Ingredients
-Flour
-Water
-Yeast
-Salt
+- Flour
+- Water
+- Yeast
+- Salt
 
 # Equipment
-Food safe bucket
-Dough whisk
-Proofing Basket
-Dutch Oven or Pizza Stone
+- Food safe bucket
+- Dough whisk
+- Proofing Basket
+- Dutch Oven or Pizza Stone
 
 # Steps Overview
 1. Combine ingredients
