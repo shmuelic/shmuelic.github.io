@@ -5,3 +5,5 @@ permalink: /art
 ---
 
 I did need that YAML stuff
+
+😬😬😦😵😰😵🤗😲
